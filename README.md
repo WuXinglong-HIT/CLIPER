@@ -1,6 +1,6 @@
 # CLIPER
 This Is the Official PyTorch Implementation for Our Paper:
->CLIPER: Cross-modal Semantic Bridging Enhanced with CLIP for Multi-modal Recommendation
+>Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation
 
 ## Package
 * numpy==1.21.5
